@@ -11,7 +11,7 @@ Capturas:
 
 <img height="250" alt="image" src="https://github.com/user-attachments/assets/b03b9b03-667d-4484-b8ca-3361b1f5d4e0" />
 
-<img width="614" height="875" alt="image" src="https://github.com/user-attachments/assets/8e1a484b-99ca-478c-9fed-b9ad22d0c8bd" />
+<img height="250" alt="image" src="https://github.com/user-attachments/assets/8e1a484b-99ca-478c-9fed-b9ad22d0c8bd" />
 
 
 Uso	de	IA:	(incluir	los	prompts	utilizados)	
